@@ -1,2 +1,2 @@
-# API-JS
-Projeto para treino, consumindo e tratando api com js
+# js-consumindo-dados-api
+Repositório do treinamento "JavaScript: Consumindo e tratando dados de uma API" da Alura Cursos Online.
